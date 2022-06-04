@@ -11,3 +11,11 @@
 @import '/css/utilidades/cores.css';
 
 @import '/css/bicicletas/bicicletas-listas.css';
+
+@import '/css/home/tecnologia.css';
+
+@import '/css/home/parceiros.css';
+
+@import '/css/home/depoimento.css';
+
+@import '/css/seguros/seguros.css';
